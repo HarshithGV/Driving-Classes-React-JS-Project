@@ -12,7 +12,7 @@ function LoginForm() {
   return (
     <>
       <Navbar bg="#1977cc" expand="lg">
-        <Navbar.Brand href="#home" id="nav-title">Navatar</Navbar.Brand>
+        <Navbar.Brand href="#home" id="nav-title">Driving School</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto"></Nav>
@@ -27,7 +27,7 @@ function LoginForm() {
 
   <section id="about" class="about">
       <div class="container-fluid">
-      <h3>About Navatar</h3>
+      <h3>About Driving School</h3>
         <div class="row">
          
 
@@ -36,14 +36,20 @@ function LoginForm() {
             
             <div class="icon-box">
               <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><h5>About Navatar</h5></h4>
-              <h6 class="description">Navatar is a unique service that brings healthcare professionals closer to their patients, even when they are working from home. Our service offers doctors the opportunity to connect with their patients through our robotic podbot machine, which is equipped with a video monitor for seamless video conferencing.</h6>
+              <h4 class="title"><h5>About Driving School</h5></h4>
+              <h6 class="description">Maruti Car Driving App is a revolutionary platform that brings together skilled car driving teachers and eager learners. Whether you're a beginner or looking to enhance your driving skills, our app provides a seamless experience for finding the right teacher within a 5 km radius.</h6>
             </div>
 
             <div class="icon-box">
               <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><h5>How Navatar Works</h5></h4>
-              <h6 class="description">To use our service, doctors simply select their desired city, hospital, Navatar name, date, and time and book the Navatar for a fee of 500.Rs per hour. Once the Navatar is booked, the doctor can control the robot and navigate it to the patient's location. This allows for face-to-face communication, despite the doctor not being physically present.</h6>
+              <h4 class="title"><h5>How Driving School</h5></h4>
+              <h6 class="description">Teacher Registration: Any qualified car driving teacher can easily register on our app. Simply create your profile, showcase your expertise, and set your availability.</h6>
+              <h6 class="description">Find Available Slots: Learners can browse through a list of available driving class slots displayed on the app. Each slot is marked with a color indicating its availability status. Green slots are free and ready to be booked.</h6>
+              <h6 class="description">Book a Slot: Learners can select their preferred time slot and book it instantly. The booking process is simple, quick, and convenient.</h6>
+              <h6 class="description">Confirmation Email: Once a learner successfully books a slot, an email notification is sent to the respective teacher with the learner's details. This ensures seamless communication and coordination between teachers and learners.</h6>
+              <h6 class="description">Payment: The payment process is handled directly between the teacher and the learner. Teachers can discuss their preferred payment method and details with the learners during the confirmation process.</h6>
+
+            
             </div>
 
         
@@ -57,18 +63,19 @@ function LoginForm() {
       <div class="container">
 
         <div class="section-title">
-          <h2>Benefits of Navatar</h2>
+          <h2>Benefits of Driving School</h2>
           <h6>Navatar offers several benefits, including</h6>
         
         </div>
 
         <div class="row benefits">
    
-         <h4>&#x2713; Increased access to quality healthcare services, especially for patients in remote or underserved areas</h4>
-         <h4>&#x2713; Improved work-life balance for doctors, as they can work from home and still connect with their patients</h4>
-         <h4>&#x2713; Reduced risk of exposure to contagious diseases, as doctors can communicate with patients remotely</h4>
-         <h4>&#x2713; Enhanced patient experience and satisfaction, as they can receive care from their trusted doctor even when they are not physically present.</h4>
-                
+         <h4>&#x2713; Easy and Convenient: Find a driving teacher and book a slot in just a few taps.</h4>
+         <h4>&#x2713; Wide Range of Teachers: Choose from a diverse pool of skilled and experienced car driving teachers.</h4>
+         <h4>&#x2713; Location-Based: Find teachers within a 5 km radius of your location, ensuring convenience and minimizing travel time.</h4>
+         <h4>&#x2713; Seamless Communication: Teachers receive email notifications with learner details, enabling effective coordination.</h4>
+         <h4>&#x2713; Direct Payment: Payment arrangements are made directly between the teacher and the learner, providing flexibility and transparency.</h4>
+
                     </div>
                     </div>
              
@@ -85,7 +92,7 @@ function LoginForm() {
 
         <div class="row conclusion">
    
-         <h4>At Navatar, we believe that our service will revolutionize the way doctors work and improve patient outcomes. By leveraging the latest technology, we are committed to providing innovative solutions that enhance the delivery of medical services and increase access to quality healthcare for all.</h4>
+         <h4>Start your car driving journey today with Maruti Car Driving App! Download now and get ready to hit the road with confidence.</h4>
                     </div>
                     </div>
              
